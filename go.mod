@@ -1,4 +1,4 @@
-module pocketframework
+module github.com/leon-marzahn/pocketframework
 
 go 1.25
 
